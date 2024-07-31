@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A importância da agricultura">
+    <title>Horta Sustentável</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+   <header class="cabecalho">
+<nav class="cabecalho-menu">
+    <li class="cabecalho-menu-item"><a href="index.html" class="nav-link">Início</a>
+    <li class="cabecalho-menu-item">Começar</a>
+    
+</nav>
+
+   </header>
+
+   <main class="conteudo">
+      <section class="conteudo-principal">
+<div class="titulozao-pag">
+<h1> Dicas para começar sua horta sustentável em casa:</h1>
+
+<section>
+   <h2 class="titulo-pag">•Escolha o Espaço</h2>
+   <p class="textao">Determine o local onde a horta será instalada: pode ser um jardim, varanda, sacada, ou mesmo uma parede vertical.</p>
+   <p class="textao">Certifique-se de que o local receba luz solar direta por pelo menos 4-6 horas diárias.</p>
+</section>
+<section>
+    <h2 class="titulo-pag">•Seleção das Plantas</h2>
+    <p class="textao">Opte por plantas que se adaptam bem ao clima local e ao espaço disponível.</p>
+    <p class="textao">Comece com ervas e vegetais de crescimento rápido e fácil manejo, como alface, rúcula, cebolinha, manjericão e hortelã.</p>
+</section>
+<section>
+    <h2 class="titulo-pag">•Preparação do Solo</h2>
+    <p class="textao">Utilize uma mistura de terra orgânica e compostagem para enriquecer o solo.</p>
+    <p class="textao">Se estiver usando vasos, certifique-se de que eles têm boa drenagem para evitar o acúmulo de água.</p>
+</section>
+<section>
+    <h2 class="titulo-pag">•Materiais Sustentáveis</h2>
+    <p class="textao">Reutilize recipientes como garrafas PET, latas, caixotes e vasos antigos.</p>
+    <p class="textao">Utilize compostagem caseira para adubar a horta, aproveitando restos de alimentos e resíduos orgânicos.</p>
+</section>
+<section>
+    <h2 class="titulo-pag">•Plantio</h2>
+    <p class="textao">Siga as orientações de plantio de cada espécie, respeitando a profundidade e espaçamento entre as plantas.</p>
+    <p class="textao">Mantenha as mudas bem regadas, especialmente nas primeiras semanas após o plantio.</p>
+</section>
+<section>
+    <h2 class="titulo-pag">•Irrigação</h2>
+    <p class="textao">Use água da chuva sempre que possível. Instale sistemas de captação e armazenamento de água pluvial.</p>
+    <p class="textao">Evite o desperdício de água, irrigando as plantas nas primeiras horas da manhã ou no final da tarde, quando a evaporação é menor.</p>
+</section>
+<section>
+    <h2 class="titulo-pag">•Manutenção</h2>
+    <p class="textao">Realize podas regulares para estimular o crescimento das plantas.</p>
+    <p class="textao">Monitore a horta para identificar e controlar pragas e doenças de forma natural, utilizando métodos como a aplicação de soluções de sabão e a introdução de predadores naturais.</p>
+</section>
+<section>
+    <h2 class="titulo-pag">•Rotação de Culturas</h2>
+    <p class="textao">Alterne os tipos de plantas cultivadas em cada ciclo para evitar o esgotamento do solo e a proliferação de pragas específicas.</p>
+</section>
+<section>
+    <h2 class="titulo-pag">•Educação e Conscientização</h2>
+    <p class="textao">Envolva a família no processo, ensinando sobre a importância da sustentabilidade e dos cuidados com a horta.</p>
+    <p class="textao">Participe de comunidades e grupos que compartilham conhecimento sobre horticultura sustentável.</p>
+</section>
+</div>
+</main>
+
+<footer class="rodape">
+   
+    </footer>
+</body>
+</html>
